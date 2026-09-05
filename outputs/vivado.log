@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Aug 28 23:32:48 2026
+# Process ID: 22152
+# Current directory: C:/Users/user/OneDrive/Desktop/VELTRAXX/output
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent18864 C:\Users\user\OneDrive\Desktop\VELTRAXX\output\top_fpgam_tb_behav.wdb
+# Log file: C:/Users/user/OneDrive/Desktop/VELTRAXX/output/vivado.log
+# Journal file: C:/Users/user/OneDrive/Desktop/VELTRAXX/output\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_wave_database {C:\Users\user\OneDrive\Desktop\VELTRAXX\output\top_fpgam_tb_behav.wdb}
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.1/data/ip'.
+current_fileset: Time (s): cpu = 00:00:12 ; elapsed = 00:00:09 . Memory (MB): peak = 716.137 ; gain = 82.496
+open_wave_database: Time (s): cpu = 00:00:17 ; elapsed = 00:00:11 . Memory (MB): peak = 716.445 ; gain = 82.805
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Aug 28 23:34:15 2026...
